@@ -1,3 +1,5 @@
+![](Beispiel.svg)
+
 # pixel-raster
 Create a pixel raster representation of an image (for educational purposes).
 
