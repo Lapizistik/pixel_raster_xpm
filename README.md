@@ -20,5 +20,7 @@ paint-yourself raster versions (see [images.pdf](images.pdf)).
 
 ## xpm2tikz
 
-The script takes all xpm images in the current directory as input and
+The script takes xpm images from the command line as input and
 outputs [tikz](https://ctan.org/pkg/pgf)-code to stdout.
+
+See `xpm2tikz -h`.
