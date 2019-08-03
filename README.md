@@ -1,7 +1,11 @@
 ![](Beispiel.svg)
 
-# pixel-raster
+# pixel_raster_xpm
 Create a pixel raster representation of an image (for educational purposes).
+
+This code is not very robust and not well tested.
+You should use [pixel_raster](https://github.com/Lapizistik/pixel_raster) instead. The only advantage compared to `pixel_raster` is that it does not
+need ImageMagick and RMagick.
 
 ## Bits and pixels
 

@@ -1,7 +1,7 @@
 #! /usr/bin/env ruby
 # -*- coding: utf-8 -*-
 
-require 'pixel_raster'
+require 'pixel_raster_xpm'
 require 'optparse'
 
 module PixelRaster
